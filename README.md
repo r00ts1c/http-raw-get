@@ -1,5 +1,4 @@
-# http-raw-get
-http-raw-get
+# Simple ddos script
 
 
 [+] go to Settings.txt
