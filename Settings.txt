@@ -1,0 +1,15 @@
+﻿apt-get update
+sudo apt-get install curl
+curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -
+sudo apt-get install -y nodejs
+apt-get install php
+apt-get install dstat
+npm i random-useragent; npm i ws; npm i https-proxy-agent; npm i http-proxy-agent; npm i events; npm i request; npm i os; npm i fs; npm i cluster; npm i cloudscraper; npm i url; npm i path; npm i net; npm i chalk; npm i colors; npm i safe-eval; npm i zombie; npm i chalk; npm i randomstring; npm i request-sync; npm i socks5-http-client; npm i sync-request
+sudo apt-get install tor
+apt install screen
+apt install htop
+
+ulimit -s unlimited
+ulimit -n 65550
+echo 15 > /proc/sys/net/ipv4/tcp_fin_timeout
+echo 1 > /proc/sys/net/ipv4/tcp_tw_reuse
